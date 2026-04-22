@@ -1,0 +1,32 @@
+body {
+  font-family: Tahoma; /* Семейство шрифтов */
+  font-size: 12pt; /* Размер шрифта   */
+/*  background-color: #5f3f0c; */ /* Цвет фона */
+  background-color: #eaeeee;  /* Цвет фона */
+/*  background: radial-gradient(circle farthest-corner at 0px 0px, #ffa90e, #000000);*/
+  color: #605444; /* Цвет основного текста */ 
+  padding: 0px; /* Отступы */ 
+  margin: 0px;  /* Смещение */ 
+}
+
+a:link {
+        /*color: #000000;  Цвет текста */
+        color: #605444;
+        text-decoration: none;   /* Подчеркивание ссылок */
+      }
+
+a:visited {
+        /*color: #000000;  Цвет ссылок */
+        color: #605444;
+        text-decoration: none
+      }
+
+a:hover {
+  color: #ff0000;
+  text-decoration: none
+}
+
+a:active {
+  color: #ff0000;
+  text-decoration: none
+}

@@ -1,0 +1,1 @@
+<a href=index.php?lvl0=rules><b>Правила</b></a>
